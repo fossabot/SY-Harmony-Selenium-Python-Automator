@@ -22,6 +22,8 @@ $ python harmonyAutomator.py <username> <Start Work XX:XX> <End Work XX:XX> <Exe
 + End Work XX:XX - Optional, Default 18:00
 + Execute in Background 0-No 1-Yes - Optional, Default 0
 
-##Dependencies:
+## Dependencies:
+
 keyring (v12.0.1) -> Used to get password from Windows Credential Manager
+
 selenium (v3.11.0) -> Used to Automate User Actions

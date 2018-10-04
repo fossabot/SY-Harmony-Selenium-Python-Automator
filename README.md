@@ -6,6 +6,7 @@ This is a Python script in order to fill the work hours every day automatically 
 In order to make this working, there are few things that need to be done:
 
 + Create an entry in Windows Credential Manager to store password that will be used:
+	+ Select Windows Credentials -> Add a generic credential
 	+ Service Name: eHarmony
 	+ Username: eHarmony_Username
 	+ Password: eHarmony_Password

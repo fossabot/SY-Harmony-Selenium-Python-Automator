@@ -1,7 +1,7 @@
 # SY-Harmony-Selenium-Python-Automator
 Workforce Management Software: SY-HARMONY : http://www.synel.com/harmony-workforce-management/
 
-This is a Python script in order to fill the work hours every day automatically in Sy-Harmony, using Selenium.
+This is a Python script to fill the work hours every day automatically in Sy-Harmony, using Selenium.
 
 In order to make this working, there are few things that need to be done:
 

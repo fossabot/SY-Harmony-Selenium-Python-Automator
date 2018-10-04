@@ -6,6 +6,7 @@ This is a Python script in order to fill the work hours every day automatically 
 In order to make this working, there are few things that need to be done:
 
 * Create an entry in Credential Manager to store password that will be used:
+
 ** Service Name: eHarmony
 ** Username: <eHarmony Username>
 ** Password: <eHarmony Password>
@@ -13,6 +14,7 @@ In order to make this working, there are few things that need to be done:
 
 Then, you just need to run the following command:
 ```sh
+$ pip install -r requirements.txt
 $ python harmonyAutomator.py <username> <Start Work XX:XX> <End Work XX:XX> <Execute in Background 0-No 1-Yes>
 ```
 

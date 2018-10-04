@@ -10,7 +10,7 @@ In order to make this working, there are few things that need to be done:
 	+ Service Name: eHarmony
 	+ Username: eHarmony_Username
 	+ Password: eHarmony_Password
-+ Change harmony_url to the right one.
++ Change harmony_url in the script harmonyAutomator.py to the right one.
 
 Then, you just need to run the following command:
 ```sh

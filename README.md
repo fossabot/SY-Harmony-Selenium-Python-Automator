@@ -1,4 +1,6 @@
 # SY-Harmony-Selenium-Python-Automator
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmiguelfreitas93%2FSY-Harmony-Selenium-Python-Automator.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmiguelfreitas93%2FSY-Harmony-Selenium-Python-Automator?ref=badge_shield)
+
 Workforce Management Software: SY-HARMONY : http://www.synel.com/harmony-workforce-management/
 
 This is a Python script to fill the work hours every day automatically in Sy-Harmony, using Selenium.
@@ -28,3 +30,6 @@ $ python harmonyAutomator.py <username> <Start Work XX:XX> <End Work XX:XX> <Exe
 keyring (v12.0.1) -> Used to get password from Windows Credential Manager
 
 selenium (v3.11.0) -> Used to Automate User Actions
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmiguelfreitas93%2FSY-Harmony-Selenium-Python-Automator.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmiguelfreitas93%2FSY-Harmony-Selenium-Python-Automator?ref=badge_large)
